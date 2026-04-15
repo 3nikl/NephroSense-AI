@@ -1,0 +1,12 @@
+langchain==0.1.0
+langchain-community==0.0.20
+pinecone-client==3.0.0
+fastapi==0.109.0
+uvicorn==0.27.0
+transformers==4.37.0
+torch==2.1.0
+sentence-transformers==2.3.0
+python-dotenv==1.0.0
+pandas==2.1.0
+numpy==1.26.0
+pytest==7.4.0
